@@ -1,3 +1,4 @@
 sample git file 
 Done modifications in file
 modifications done in local git
+file merged
